@@ -1,0 +1,29 @@
+Copyright (c) 2026 Taebin Heo
+
+This software and associated documentation files are made available for
+non-commercial research and educational purposes only.
+
+Permission is granted to use, copy, modify, and distribute this software
+for non-commercial research and educational purposes, provided that the
+above copyright notice and this permission notice are included in all
+copies or substantial portions of the software.
+
+Commercial use is not permitted without prior written permission from
+the copyright holder.
+
+Commercial use includes, but is not limited to:
+- use by companies, organizations, or for-profit entities;
+- use in commercial products or services;
+- use in internal business operations;
+- use for consulting, contract research, paid development, or other
+  revenue-generating activities;
+- redistribution as part of a commercial software package or platform.
+
+Third-party libraries and dependencies used by this project are governed
+by their own respective licenses.
+
+This software is provided "as is", without warranty of any kind, express
+or implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement. In no event shall
+the author be liable for any claim, damages, or other liability arising
+from the use of this software.
