@@ -6,7 +6,7 @@ AIML learns dimension-wise importance weights from recent history and applies th
 
 The input can be an observation, state, action-related feature, or any structured representation used by the policy or value or belief network.
 
-## cart pole
+## cart pole ( Gymnasium )
 <div align="center">
 <table>
   <tr>
@@ -24,7 +24,25 @@ The input can be an observation, state, action-related feature, or any structure
 </table>
 </div>
 
-## half cheetah
+## inverted double pendulum ( Gymnasium, MuJoCo )
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="readme_assets/idp_01.gif" width="100%">
+      <br>
+      <em> Initial training ( position 0 ~ 2 )</em>
+    </td>
+    <td align="center">
+      <img src="readme_assets/idp_02.gif" width="100%">
+      <br>
+      <em> post training ( position ≈ 0 ) </em>
+    </td>
+  </tr>
+</table>
+</div>
+
+## half cheetah ( Gymnasium, MuJoCo )
 <div align="center">
 <table>
   <tr>
