@@ -6,6 +6,13 @@ AIML learns dimension-wise importance weights from recent history and applies th
 
 The input can be an observation, state, action-related feature, or any structured representation used by the policy or value or belief network.
 
+## concept
+<div align="center">
+  <img src="readme_assets/Concept.png" width="100%">
+  <br>
+  <em>Concept overview</em>
+</div>
+
 ## cart pole ( Gymnasium )
 <div align="center">
 <table>
