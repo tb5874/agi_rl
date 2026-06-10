@@ -6,6 +6,13 @@ Multiple rollout workers interact with independent environment instances in para
 
 This approach improves sample efficiency, increases training throughput, and enables reinforcement learning agents to learn from diverse experiences at scale.
 
+## concept
+<div align="center">
+  <img src="readme_assets/Concept.png" width="100%">
+  <br>
+  <em>Concept overview</em>
+</div>
+
 ### AIML
 
 Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weighting module for reinforcement learning.
@@ -13,13 +20,6 @@ Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weight
 AIML learns dimension-wise importance weights from recent history and applies them to the current normalized input representation.
 
 The input can be an observation, state, action-related feature, or any structured representation used by the policy or value or belief network.
-
-## concept
-<div align="center">
-  <img src="readme_assets/Concept.png" width="100%">
-  <br>
-  <em>Concept overview</em>
-</div>
 
 ## cart pole ( Gymnasium )
 <div align="center">
