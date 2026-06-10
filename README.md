@@ -1,3 +1,11 @@
+### Distributed Reinforcement Learning
+
+Distributed Reinforcement Learning is a scalable reinforcement learning framework designed to accelerate data collection and policy optimization.
+
+Multiple rollout workers interact with independent environment instances in parallel, while collected trajectories are aggregated and used to update the policy or value networks.
+
+This approach improves sample efficiency, increases training throughput, and enables reinforcement learning agents to learn from diverse experiences at scale.
+
 ### AIML
 
 Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weighting module for reinforcement learning.
