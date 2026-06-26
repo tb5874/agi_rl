@@ -8,6 +8,8 @@ These features are combined with robot state information to form a unified multi
 
 This structure enables the robot to interpret task context, identify relevant objects and targets, and generate actions according to natural-language commands.
 
+## VLA - training result
+
 ### fetch ( Gymnasium, MuJoCo )
 <div align="center">
 <table>
