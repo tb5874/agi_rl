@@ -8,6 +8,24 @@ These features are combined with robot state information to form a unified multi
 
 This structure enables the robot to interpret task context, identify relevant objects and targets, and generate actions according to natural-language commands.
 
+### fetch ( Gymnasium, MuJoCo )
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="readme_assets/fet_01.gif" width="100%">
+      <br>
+      <em> Initial training </em>
+    </td>
+    <td align="center">
+      <strong>Under Implementation</strong>
+      <br>
+      <em> post training </em>
+    </td>
+  </tr>
+</table>
+</div>
+
 ## AIML
 
 Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weighting module for reinforcement learning.
