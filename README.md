@@ -23,7 +23,7 @@ The input can be an observation, state, action-related feature, or any structure
 
 ## AIML - training result
 
-## cart pole ( Gymnasium )
+### cart pole ( Gymnasium )
 <div align="center">
 <table>
   <tr>
