@@ -1,5 +1,13 @@
 ## VLA
 
+Vision-Language-Action (VLA) is a multimodal policy framework that maps visual observations, language instructions, and robot state information to actions.
+
+The vision encoder extracts spatial features from camera images, while the text encoder represents task instructions as language features.
+
+These features are combined with robot state information to form a unified multimodal representation used by the policy network.
+
+This structure enables the robot to interpret task context, identify relevant objects and targets, and generate actions according to natural-language commands.
+
 ## AIML
 
 Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weighting module for reinforcement learning.
