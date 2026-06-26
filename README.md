@@ -1,17 +1,4 @@
-## Distributed Reinforcement Learning
-
-Distributed Reinforcement Learning is a scalable reinforcement learning framework designed to accelerate data collection and policy optimization.
-
-Multiple rollout workers interact with independent environment instances in parallel, while collected trajectories are aggregated and used to update the policy or value networks.
-
-This approach improves sample efficiency, increases training throughput, and enables reinforcement learning agents to learn from diverse experiences at scale.
-
-## Distributed Reinforcement Learning - concept
-<div align="center">
-  <img src="readme_assets/Concept.png" width="100%">
-  <br>
-  <em>Concept overview</em>
-</div>
+## VLA
 
 ## AIML
 
@@ -41,7 +28,7 @@ The input can be an observation, state, action-related feature, or any structure
 </table>
 </div>
 
-## inverted double pendulum ( Gymnasium, MuJoCo )
+### inverted double pendulum ( Gymnasium, MuJoCo )
 <div align="center">
 <table>
   <tr>
@@ -59,7 +46,7 @@ The input can be an observation, state, action-related feature, or any structure
 </table>
 </div>
 
-## half cheetah ( Gymnasium, MuJoCo )
+### half cheetah ( Gymnasium, MuJoCo )
 <div align="center">
 <table>
   <tr>
@@ -76,3 +63,18 @@ The input can be an observation, state, action-related feature, or any structure
   </tr>
 </table>
 </div> 
+
+## Distributed Reinforcement Learning
+
+Distributed Reinforcement Learning is a scalable reinforcement learning framework designed to accelerate data collection and policy optimization.
+
+Multiple rollout workers interact with independent environment instances in parallel, while collected trajectories are aggregated and used to update the policy or value networks.
+
+This approach improves sample efficiency, increases training throughput, and enables reinforcement learning agents to learn from diverse experiences at scale.
+
+## Distributed Reinforcement Learning - concept
+<div align="center">
+  <img src="readme_assets/Concept.png" width="100%">
+  <br>
+  <em>Concept overview</em>
+</div>
