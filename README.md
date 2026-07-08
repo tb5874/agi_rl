@@ -28,12 +28,7 @@ This structure enables the robot to interpret task context, identify relevant ob
       <strong>RL - Expert - Behavioral Cloning</strong><br>
       <strong>VLA</strong><br>
       <br>
-      <br>
-      <br>
-      <br>
       <strong>Under Implementation</strong>
-      <br>
-      <em> post training </em>
     </td>
   </tr>
 </table>
