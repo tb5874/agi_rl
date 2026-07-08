@@ -20,6 +20,11 @@ This structure enables the robot to interpret task context, identify relevant ob
       <em> Initial training </em>
     </td>
     <td align="center">
+      <img src="readme_assets/fet_02.gif" width="100%">
+      <br>
+      <em> RL - Expert </em>
+    </td>
+    <td align="center">
       <strong>Under Implementation</strong>
       <br>
       <em> post training </em>
