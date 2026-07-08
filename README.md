@@ -25,8 +25,12 @@ This structure enables the robot to interpret task context, identify relevant ob
       <em> RL - Expert </em>
     </td>
     <td align="center">
-      <strong>RL - Expert - BC Behavioral cloning</strong><br>
+      <strong>RL - Expert - Behavioral Cloning</strong><br>
       <strong>VLA</strong><br>
+      <br>
+      <br>
+      <br>
+      <br>
       <strong>Under Implementation</strong>
       <br>
       <em> post training </em>
