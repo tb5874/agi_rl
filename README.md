@@ -118,19 +118,31 @@ This approach improves sample efficiency, increases training throughput, and ena
 http://www.lmdb.tech/doc/
 
 - step1
+
 Process 0 → worker_0.lmdb
+
 Process 1 → worker_1.lmdb
+
 Process 2 → worker_2.lmdb
+
 Process 3 → worker_3.lmdb
 
 - step2
+
 worker_0.lmdb ─┐
+
 worker_1.lmdb ─┼→ merged_train.lmdb
+
 worker_2.lmdb ─┤
+
 worker_3.lmdb ─┘
 
 - step3
+
 Process 0 ─┐
+
 Process 1 ─┼→ merged_train.lmdb read
+
 Process 2 ─┤
+
 Process 3 ─┘
