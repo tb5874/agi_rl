@@ -1,4 +1,10 @@
-## VLA
+<br>
+
+---
+
+<br>
+
+## [ VLA ]
 
 Vision-Language-Action (VLA) is a multimodal policy framework that maps visual observations, language instructions, and robot state information to actions.
 
