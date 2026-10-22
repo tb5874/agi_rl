@@ -34,6 +34,12 @@ This structure enables the robot to interpret task context, identify relevant ob
 </table>
 </div>
 
+<br>
+
+---
+
+<br>
+
 ## AIML
 
 Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weighting module for reinforcement learning.
