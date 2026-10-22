@@ -104,6 +104,12 @@ The input can be an observation, state, action-related feature, or any structure
 </table>
 </div> 
 
+<br>
+
+---
+
+<br>
+
 ## Distributed Reinforcement Learning
 
 Distributed Reinforcement Learning is a scalable reinforcement learning framework designed to accelerate data collection and policy optimization.
@@ -118,6 +124,12 @@ This approach improves sample efficiency, increases training throughput, and ena
   <br>
   <em>Concept overview</em>
 </div>
+
+<br>
+
+---
+
+<br>
 
 ## Lightning Memory-Mapped Database Manager (LMDB)
 
