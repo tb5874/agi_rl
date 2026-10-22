@@ -46,7 +46,7 @@ This structure enables the robot to interpret task context, identify relevant ob
 
 <br>
 
-## AIML
+## [ AIML ]
 
 Adaptive Importance Metric Learning (AIML) is a trajectory-conditioned re-weighting module for reinforcement learning.
 
@@ -116,7 +116,7 @@ The input can be an observation, state, action-related feature, or any structure
 
 <br>
 
-## Distributed Reinforcement Learning
+## [ Distributed Reinforcement Learning ]
 
 Distributed Reinforcement Learning is a scalable reinforcement learning framework designed to accelerate data collection and policy optimization.
 
@@ -137,7 +137,7 @@ This approach improves sample efficiency, increases training throughput, and ena
 
 <br>
 
-## Lightning Memory-Mapped Database Manager (LMDB)
+## [ Lightning Memory-Mapped Database Manager (LMDB) ]
 
 http://www.lmdb.tech/doc/
 
